@@ -1,0 +1,15 @@
+[{
+    "modid": "mod_MoreFireworks",
+    "name": "More Fireworks",
+    "description": "Mod for Minecraft that modifies and adds to the firework mechanic currently implemented in the game.",
+    "version": "0.0.1",
+    "mcversion": "1.5.2",
+    "url": "https://github.com/adwhitenc/More_Fireworks_Mod",
+    "updateUrl": "",
+    "authors": [ "adwhitenc" ],
+    "credits": "Created by adwhitenc. Licensed under LGPL v3.0.",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "dependencies": [],
+  }]
